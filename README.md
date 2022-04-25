@@ -1,1 +1,1 @@
-# pmu-issue-classifier
+# pmu-software-issue-classifier
